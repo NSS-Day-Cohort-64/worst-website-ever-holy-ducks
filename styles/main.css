@@ -1,15 +1,18 @@
 body {
-    background-color: #ff00ff;
-    color: yellow;
     font-family: Comic Sans MS, cursive;
-    text-shadow: #0000ff;
     text-align: center;
     background-image: url("https://web.archive.org/web/20090831115746/http://geocities.com/tamer_cd/Images/as-fire-apb-anim-01.gif");
-    background-image: cover;
+    background-size: cover;
   }
   
   h1 {
-    color: #0000ff;
+    color: yellow;
+    font-size: 72px;
+    text-decoration: underline;
+  }
+
+  h2 {
+    color: yellow;
     font-size: 72px;
     text-decoration: underline;
   }
