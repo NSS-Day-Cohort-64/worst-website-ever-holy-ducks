@@ -5,22 +5,29 @@ body {
   }
   
   h1 {
-    color: yellow;
+    background-color: hotpink;
+    color: hotpink;
     font-size: 72px;
     text-decoration: underline;
   }
 
   h2 {
+    background-color: hotpink;
     color: yellow;
     font-size: 72px;
     text-decoration: underline;
   }
   
   p {
+    background-color: hotpink;
     font-size: 24px;
     color: yellow;
   }
-  
+
+  li{
+    background-color: hotpink;
+    color: yellow;
+  }
   .ugly-button {
     background-color: #ffff00;
     color: #ff0000;
@@ -30,6 +37,7 @@ body {
     border-radius: 5px;
     text-transform: uppercase;
     margin-top: 20px;
+    justify-content: center;
   }
   
   .ugly-link {
