@@ -1,0 +1,38 @@
+body {
+    background-color: #ff00ff;
+    color: yellow;
+    font-family: Comic Sans MS, cursive;
+    text-shadow: #0000ff;
+    text-align: center;
+    background-image: url("https://web.archive.org/web/20090831115746/http://geocities.com/tamer_cd/Images/as-fire-apb-anim-01.gif");
+    background-image: cover;
+  }
+  
+  h1 {
+    color: #0000ff;
+    font-size: 72px;
+    text-decoration: underline;
+  }
+  
+  p {
+    font-size: 24px;
+    color: yellow;
+  }
+  
+  .ugly-button {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid #00ffff;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-top: 20px;
+  }
+  
+  .ugly-link {
+    color: #0000ff;
+    text-decoration: none;
+  }
+  
+
