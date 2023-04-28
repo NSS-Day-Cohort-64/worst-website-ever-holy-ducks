@@ -1,24 +1,33 @@
 body {
-    background-color: #ff00ff;
-    color: yellow;
     font-family: Comic Sans MS, cursive;
-    text-shadow: #0000ff;
     text-align: center;
     background-image: url("https://web.archive.org/web/20090831115746/http://geocities.com/tamer_cd/Images/as-fire-apb-anim-01.gif");
-    background-image: cover;
   }
   
   h1 {
-    color: #0000ff;
+    background-color: hotpink;
+    color: hotpink;
+    font-size: 72px;
+    text-decoration: underline;
+  }
+
+  h2 {
+    background-color: hotpink;
+    color: yellow;
     font-size: 72px;
     text-decoration: underline;
   }
   
   p {
+    background-color: hotpink;
     font-size: 24px;
     color: yellow;
   }
-  
+
+  li{
+    background-color: hotpink;
+    color: yellow;
+  }
   .ugly-button {
     background-color: #ffff00;
     color: #ff0000;
@@ -28,6 +37,7 @@ body {
     border-radius: 5px;
     text-transform: uppercase;
     margin-top: 20px;
+    justify-content: center;
   }
   
   .ugly-link {
