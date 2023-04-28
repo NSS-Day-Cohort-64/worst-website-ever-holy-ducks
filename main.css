@@ -1,0 +1,8 @@
+.myPic {
+    border: 2px dashed yellow;
+    padding-right: 10%; 
+}
+.bio {
+    font-style: oblique;
+    color: yellow;
+}
